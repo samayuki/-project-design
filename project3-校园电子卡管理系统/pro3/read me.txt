@@ -1,0 +1,2 @@
+1.程序在devc++上运行
+2.将三个cardsTXT文件放在E盘内，使其路径为如E:\\campus_cards.txt
